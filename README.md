@@ -1,5 +1,7 @@
 # hermit-crab-2-config
 
+https://github.com/bigtreetech/HermitCrab/tree/master/HermitCrab2
+
 ## Ensure U2C CAN interface is up
 ```bash
 ip -s link show can0
